@@ -5,7 +5,7 @@ Created on the 15th of August.
 Explore US Bikeshare Data.
 
 ### Description
-Calculate statistics and build an interactive invironment where a user chooses the data and filter for a dataset to analyze.
+Calculate statistics and build an interactive invironment where a user chooses the data and filters for a dataset to analyze.
 
 ### Files used
 Project.py

@@ -1,15 +1,15 @@
 ### Date created
-Created on the 15th of August
+Created on the 15th of August.
 
 ### Project Title
-Explore US Bikeshare Data 
+Explore US Bikeshare Data.
 
 ### Description
-Calculate statistics and build an interactive invironment where a user chooses the data and filter for a dataset to analyze
+Calculate statistics and build an interactive invironment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
 Project.py
 
 ### Credits
-NidalShater's Repository was a great Inspo and very helpful 
+NidalShater's Repository was a great Inspo and very helpful.
 

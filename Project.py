@@ -22,6 +22,7 @@ while True:
       if city not in ('New York City', 'Chicago', 'Washington'):
         print("Sorry, I didn't catch that. Try again.")
         continue
+      # else, break
       else:
         break
 

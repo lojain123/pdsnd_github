@@ -1,5 +1,5 @@
 ### Date created
-Created on the 15th of August
+This is created on the 15th of August
 
 ### Project Title
 Explore US Bikeshare Data 

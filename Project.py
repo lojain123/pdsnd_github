@@ -23,6 +23,7 @@ while True:
       if city not in ('New York City', 'Chicago', 'Washington'):
         print("Sorry, I didn't catch that. Try again.")
         continue
+      # else, break
       else:
         break
 
@@ -34,7 +35,7 @@ while True:
         continue
       else:
         break
-
+    # a
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
  while True:
       day = input("\nAre you looking for a particular day? If so, kindly enter the day as follows: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or type 'all' if you do not have any preference.\n")
